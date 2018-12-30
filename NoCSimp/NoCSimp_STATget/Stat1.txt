@@ -1,0 +1,342 @@
+# Start simulation at                    0
+# Stgen source:          0 dest:  1 len:          1 time:                    1 
+# Stgen source:          1 dest:  3 len:          6 time:                    1 
+# Stgen source:          5 dest:  2 len:          3 time:                    1 
+# Stgen source:         11 dest:  6 len:          6 time:                    1 
+# Stgen source:          2 dest:  7 len:          2 time:                    3 
+# Stgen source:         10 dest:  5 len:          3 time:                    3 
+# Stgen source:          6 dest:  5 len:          5 time:                    5 
+# Stgen source:         12 dest:  0 len:          5 time:                    5 
+# Stgen source:          7 dest:  3 len:          5 time:                    9 
+# IP block position 00000000000000000000000000000000 resetted
+# IP block position 00000000000000000000000000000001 resetted
+# IP block position 00000000000000000000000000000010 resetted
+# IP block position 00000000000000000000000000000101 resetted
+# IP block position 00000000000000000000000000000110 resetted
+# IP block position 00000000000000000000000000000111 resetted
+# IP block position 00000000000000000000000000001010 resetted
+# IP block position 00000000000000000000000000001011 resetted
+# IP block position 00000000000000000000000000001100 resetted
+# Stgen source:          0 dest:  3 len:          3 time:                   21 
+# Stgen source:          1 dest:  5 len:          5 time:                   21 
+# Stgen source:         11 dest:  8 len:          2 time:                   21 
+# Stgen source:          6 dest:  1 len:          5 time:                   23 
+# Stgen source:         12 dest:  1 len:          7 time:                   23 
+# SW          0: Received flit at time:                   27
+# SW          1: Received flit at time:                   27
+# Stgen source:          5 dest:  7 len:          7 time:                   27 
+# Stgen source:          7 dest:  6 len:          8 time:                   27 
+# Stgen source:         10 dest:  2 len:          4 time:                   27 
+# SW         11: Received flit at time:                   27
+# Stgen source:          2 dest:  7 len:          2 time:                   29 
+# SW          6: Received flit at time:                   29
+# SW         12: Received flit at time:                   29
+# SW          5: Received flit at time:                   33
+# SW          7: Received flit at time:                   33
+# SW         10: Received flit at time:                   33
+# SW          0: Send flit at time:                   35
+# SW          1: Send flit at time:                   35
+# SW          2: Received flit at time:                   35
+# SW         11: Send flit at time:                   35
+# SW          0: Received flit at time:                   37
+# SW          1: Received flit at time:                   37
+# SW          6: Send flit at time:                   37
+# SW         11: Received flit at time:                   37
+# SW         12: Send flit at time:                   37
+# SW          6: Received flit at time:                   39
+# SW         12: Received flit at time:                   39
+# SW          5: Send flit at time:                   41
+# SW          7: Send flit at time:                   41
+# SW         10: Send flit at time:                   41
+# SW          2: Send flit at time:                   43
+# SW          5: Received flit at time:                   43
+# SW          7: Received flit at time:                   43
+# SW         10: Received flit at time:                   43
+# SW          2: Received flit at time:                   45
+# SW         11: Received flit at time:                   45
+# SW         11: Send flit at time:                   45
+# SW          0: Received flit at time:                   47
+# SW          1: Received flit at time:                   47
+# SW         12: Send flit at time:                   47
+# SW          6: Received flit at time:                   49
+# SW         12: Received flit at time:                   49
+# SW         10: Send flit at time:                   51
+# SW          5: Received flit at time:                   53
+# SW          6: Send flit at time:                   53
+# SW          7: Received flit at time:                   53
+# SW         10: Received flit at time:                   53
+# SW         11: Send flit at time:                   53
+# SW          1: Received flit at time:                   57
+# SW         11: Received flit at time:                   57
+# SW         12: Send flit at time:                   57
+# SW          6: Received flit at time:                   59
+# SW         12: Received flit at time:                   59
+# SW         10: Send flit at time:                   61
+# SW          5: Received flit at time:                   63
+# SW          7: Received flit at time:                   63
+# SW         10: Received flit at time:                   63
+# SW          6: Send flit at time:                   65
+# SW         11: Send flit at time:                   65
+# SW          1: Received flit at time:                   67
+# SW         12: Send flit at time:                   67
+# SW          6: Received flit at time:                   69
+# SW         11: Received flit at time:                   69
+# SW         12: Received flit at time:                   69
+# SW         10: Send flit at time:                   71
+# SW          1: Received flit at time:                   73
+# SW          5: Received flit at time:                   73
+# SW          7: Received flit at time:                   73
+# SW          6: Received flit at time:                   75
+# SW          6: Send flit at time:                   77
+# SW         11: Send flit at time:                   77
+# SW         12: Send flit at time:                   77
+# SW         12: Received flit at time:                   79
+# SW          0: Send flit at time:                   81
+# SW         11: Received flit at time:                   81
+# SW          5: Received flit at time:                   83
+# SW          5: Send flit at time:                   83
+# SW          7: Received flit at time:                   83
+# SW          1: Received flit at time:                   85
+# SW          6: Received flit at time:                   87
+# SW         12: Send flit at time:                   87
+# SW          6: Send flit at time:                   89
+# SW         11: Send flit at time:                   89
+# SW         12: Received flit at time:                   89
+# SW          0: Send flit at time:                   93
+# SW          5: Received flit at time:                   93
+# SW          7: Received flit at time:                   93
+# SW         11: Received flit at time:                   93
+# SW          5: Send flit at time:                   95
+# SW          1: Received flit at time:                   97
+# SW         12: Send flit at time:                   97
+# SW          6: Received flit at time:                   99
+run
+# SW          6: Send flit at time:                  101
+# SW         11: Send flit at time:                  101
+# SW          7: Received flit at time:                  103
+# SW          5: Send flit at time:                  107
+# SW          7: Received flit at time:                  109
+# SW          6: Received flit at time:                  111
+# SW          6: Send flit at time:                  117
+# SW          5: Send flit at time:                  119
+# SW          7: Received flit at time:                  121
+# SW          6: Received flit at time:                  123
+# SW          6: Send flit at time:                  129
+# SW          5: Send flit at time:                  131
+# SW          7: Received flit at time:                  133
+# SW          6: Received flit at time:                  135
+# SW          6: Send flit at time:                  141
+# SW          5: Send flit at time:                  143
+# SW          7: Received flit at time:                  145
+# SW          6: Received flit at time:                  147
+# SW          6: Send flit at time:                  153
+# SW          6: Received flit at time:                  155
+# SW          7: Received flit at time:                  157
+# SW          1: Send flit at time:                  163
+# SW          6: Send flit at time:                  165
+# SW          6: Received flit at time:                  167
+# SW          7: Received flit at time:                  169
+# SW          1: Send flit at time:                  175
+# SW          6: Send flit at time:                  177
+# SW          6: Received flit at time:                  179
+# SW          7: Received flit at time:                  181
+# SW          1: Send flit at time:                  187
+# SW          6: Send flit at time:                  189
+# SW          7: Received flit at time:                  189
+# SW          6: Received flit at time:                  191
+# SW         11: Received flit at time:                  193
+# SW          2: Send flit at time:                  197
+# SW          1: Send flit at time:                  199
+run
+# SW          6: Send flit at time:                  201
+# SW          7: Received flit at time:                  201
+# SW         11: Send flit at time:                  201
+# SW          6: Received flit at time:                  203
+# SW         11: Received flit at time:                  205
+# SW          1: Send flit at time:                  211
+# SW          6: Send flit at time:                  213
+# SW         11: Send flit at time:                  213
+# SW          0: Received flit at time:                  215
+# SW         11: Received flit at time:                  217
+# SW          0: Send flit at time:                  223
+# SW          1: Send flit at time:                  223
+# SW          6: Send flit at time:                  225
+# SW         11: Send flit at time:                  225
+# SW          0: Received flit at time:                  227
+# SW          1: Received flit at time:                  227
+# SW         11: Received flit at time:                  229
+# SW          0: Send flit at time:                  235
+# SW          1: Send flit at time:                  235
+# SW          6: Send flit at time:                  237
+# SW         11: Send flit at time:                  237
+# SW          0: Received flit at time:                  239
+# SW          1: Received flit at time:                  239
+# SW         11: Received flit at time:                  241
+# SW          0: Send flit at time:                  247
+# SW          1: Send flit at time:                  247
+# SW         11: Send flit at time:                  249
+# SW          0: Received flit at time:                  251
+# SW          1: Received flit at time:                  251
+# SW          0: Send flit at time:                  259
+# SW          1: Send flit at time:                  259
+# SW          0: Received flit at time:                  263
+# SW          1: Received flit at time:                  263
+# SW          0: Send flit at time:                  271
+# SW          1: Send flit at time:                  271
+# SW          0: Received flit at time:                  275
+# SW          1: Received flit at time:                  275
+# SW          0: Send flit at time:                  283
+# SW          1: Send flit at time:                  283
+# SW          0: Received flit at time:                  287
+# SW          1: Received flit at time:                  287
+# SW          0: Send flit at time:                  295
+# SW          1: Send flit at time:                  295
+# Stgen source:          5 dest:  8 len:          4 time:                  297 
+# SW          0: Received flit at time:                  299
+# SW          1: Received flit at time:                  299
+run
+# SW          5: Received flit at time:                  303
+# SW          0: Send flit at time:                  307
+# SW          1: Send flit at time:                  307
+# SW          0: Received flit at time:                  311
+# SW          1: Received flit at time:                  311
+# SW          5: Send flit at time:                  311
+# SW          5: Received flit at time:                  313
+# SW          0: Received flit at time:                  319
+# SW          0: Send flit at time:                  319
+# SW          1: Send flit at time:                  319
+# SW          1: Received flit at time:                  323
+# SW          5: Received flit at time:                  323
+# SW          5: Send flit at time:                  327
+# SW          0: Received flit at time:                  331
+# SW          0: Send flit at time:                  331
+# SW          5: Received flit at time:                  333
+# SW          5: Send flit at time:                  339
+# SW          0: Received flit at time:                  343
+# SW          5: Send flit at time:                  351
+# SW          0: Received flit at time:                  355
+# SW          0: Received flit at time:                  361
+# SW          1: Send flit at time:                  369
+# SW          0: Received flit at time:                  373
+# Stgen source:          1 dest:  6 len:          6 time:                  375 
+# SW          1: Received flit at time:                  381
+# SW          1: Send flit at time:                  381
+# SW          0: Received flit at time:                  385
+# SW          1: Received flit at time:                  391
+# SW          1: Send flit at time:                  393
+# SW          6: Received flit at time:                  397
+run
+# SW          1: Received flit at time:                  401
+# SW          1: Send flit at time:                  405
+# SW          6: Send flit at time:                  405
+# SW          6: Received flit at time:                  409
+# SW          1: Received flit at time:                  411
+# SW          1: Send flit at time:                  417
+# SW          6: Send flit at time:                  417
+# SW          1: Received flit at time:                  421
+# SW          6: Received flit at time:                  421
+# Stgen source:          2 dest:  8 len:          1 time:                  423 
+# SW          1: Send flit at time:                  429
+# SW          2: Received flit at time:                  429
+# SW          6: Send flit at time:                  429
+# SW          1: Received flit at time:                  431
+# SW          6: Received flit at time:                  433
+# SW          2: Send flit at time:                  437
+# SW          1: Send flit at time:                  441
+# SW          6: Send flit at time:                  441
+# SW          7: Received flit at time:                  441
+# SW          6: Received flit at time:                  445
+# SW          1: Send flit at time:                  453
+# SW          6: Send flit at time:                  453
+# SW          6: Received flit at time:                  457
+# Stgen source:          5 dest:  6 len:          7 time:                  461 
+# SW          6: Send flit at time:                  465
+# SW          5: Received flit at time:                  467
+# Recv pos:          6 len:          6 time:                  471
+# SW          5: Send flit at time:                  475
+# SW          5: Received flit at time:                  477
+# SW         10: Received flit at time:                  479
+# SW          5: Received flit at time:                  487
+# SW          5: Send flit at time:                  487
+# SW         10: Send flit at time:                  487
+# SW         10: Received flit at time:                  491
+# SW          5: Received flit at time:                  497
+# SW          5: Send flit at time:                  499
+# SW         10: Send flit at time:                  499
+run
+# SW         10: Received flit at time:                  503
+# SW          5: Received flit at time:                  507
+# SW          5: Send flit at time:                  511
+# SW         10: Send flit at time:                  511
+# SW         10: Received flit at time:                  515
+# SW          5: Received flit at time:                  517
+# Stgen source:          1 dest:  7 len:          8 time:                  523 
+# SW          5: Send flit at time:                  523
+# SW         10: Send flit at time:                  523
+# SW          5: Received flit at time:                  527
+# SW         10: Received flit at time:                  527
+# SW          1: Received flit at time:                  529
+# SW          5: Send flit at time:                  535
+# SW         10: Send flit at time:                  535
+# SW          1: Send flit at time:                  537
+# SW          1: Received flit at time:                  539
+# SW         10: Received flit at time:                  539
+# SW          6: Received flit at time:                  541
+# SW          5: Send flit at time:                  547
+# SW         10: Send flit at time:                  547
+# SW          1: Received flit at time:                  549
+# SW          1: Send flit at time:                  549
+# SW          6: Send flit at time:                  549
+# SW         10: Received flit at time:                  551
+# SW          6: Received flit at time:                  553
+# SW          7: Received flit at time:                  553
+# SW          1: Received flit at time:                  559
+# SW         10: Send flit at time:                  559
+# SW          1: Send flit at time:                  561
+# SW          6: Send flit at time:                  561
+# SW          6: Received flit at time:                  565
+# SW          7: Received flit at time:                  565
+# SW          1: Received flit at time:                  569
+# SW          1: Send flit at time:                  573
+# SW          6: Send flit at time:                  573
+# SW          6: Received flit at time:                  577
+# SW          7: Received flit at time:                  577
+# SW          1: Received flit at time:                  579
+# SW          1: Send flit at time:                  585
+# SW          6: Send flit at time:                  585
+# SW          1: Received flit at time:                  589
+# SW          6: Received flit at time:                  589
+# SW          7: Received flit at time:                  589
+# SW          1: Send flit at time:                  597
+# SW          6: Send flit at time:                  597
+# SW          1: Received flit at time:                  599
+run
+# SW          6: Received flit at time:                  601
+# SW          7: Received flit at time:                  601
+# SW          1: Send flit at time:                  609
+# SW          6: Send flit at time:                  609
+# SW          6: Received flit at time:                  613
+# SW          7: Received flit at time:                  613
+# SW          1: Send flit at time:                  621
+# SW          6: Send flit at time:                  621
+# SW          6: Received flit at time:                  625
+# SW          7: Received flit at time:                  625
+# SW          6: Send flit at time:                  633
+# SW          7: Received flit at time:                  637
+# Stgen source:          0 dest:  7 len:          3 time:                  653 
+# Stgen source:          6 dest:  0 len:          5 time:                  655 
+# SW          0: Received flit at time:                  659
+# SW          6: Received flit at time:                  659
+# SW          6: Send flit at time:                  667
+# SW          0: Received flit at time:                  669
+# SW          6: Received flit at time:                  669
+# SW          5: Received flit at time:                  671
+# SW          0: Received flit at time:                  679
+# SW          5: Send flit at time:                  679
+# SW          6: Received flit at time:                  679
+# SW          6: Send flit at time:                  679
+# SW          5: Received flit at time:                  683
+# SW          6: Received flit at time:                  689
+# SW          6: Send flit at time:                  691
+# SW          5: Received flit at time:                  695
+# SW          6: Received flit at time:                  699
