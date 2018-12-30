@@ -1,0 +1,2689 @@
+# Current time Sun Mar 27 22:06:05 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 0344b5ec. Traceback:
+# 0    0x0344b5ec: '<unknown (@0x344b5ec)>'
+# 1    0x1002cad7: 'TclCompEvalObj + 0x637'
+# 2    0x1002c590: 'TclCompEvalObj + 0xf0'
+# 3    0x1000e159: 'Tcl_EvalObjEx + 0x59'
+# 4    0x00f59390: 'Itcl_EvalMemberCode + 0x210'
+# 5    0x033b8b70: '<unknown (@0x33b8b70)>'
+StackWalk failed 126
+# End of Stack Trace
+
+# Current time Wed Apr 06 18:04:19 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000096 has occurred at address 033ce341. Traceback:
+# 0    0x033ce341: '<unknown (@0x33ce341)>'
+# 1    0x10024f26: 'TclCompileTokens + 0x1d6'
+# 2    0x10021915: 'TclCompileSetCmd + 0x1a5'
+# 3    0x1002484e: 'TclCompileScript + 0x22e'
+# 4    0x100258bb: 'TclCompileCmdWord + 0x2b'
+# 5    0x1001ec6b: 'TclCompileIfCmd + 0x22b'
+# 6    0x1002484e: 'TclCompileScript + 0x22e'
+# 7    0x1002427d: 'TclSetByteCodeFromAny + 0x4d'
+# 8    0x100243e4: 'TclSetByteCodeFromAny + 0x1b4'
+# 9    0x10053b2a: 'TclProcCompileProc + 0x24a'
+# 10   0x10053902: 'TclProcCompileProc + 0x22'
+# 11   0x00f59162: 'Itcl_GetMemberCode + 0x122'
+# 12   0x033c60f0: '<unknown (@0x33c60f0)>'
+StackWalk failed 126
+# End of Stack Trace
+
+# Current time Wed Apr 06 18:04:19 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x77c22efa: '<unknown (@0x77c22efa)>'
+# 31   0x006aa0b1: '<unknown (@0x6aa0b1)>'
+# 32   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Wed Apr 06 18:04:19 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x77c22efa: '<unknown (@0x77c22efa)>'
+# 31   0x006aa0b1: '<unknown (@0x6aa0b1)>'
+# 32   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Wed Apr 06 18:04:19 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x77c22efa: '<unknown (@0x77c22efa)>'
+# 31   0x006aa0b1: '<unknown (@0x6aa0b1)>'
+# 32   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Thu Apr 07 21:54:39 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 059a1479. Traceback:
+# 0    0x059a1479: '<unknown (@0x59a1479)>'
+# 1    0x00460ae5: '<unknown (@0x460ae5)>'
+# 2    0x00460e22: '<unknown (@0x460e22)>'
+# 3    0x0044d02b: '<unknown (@0x44d02b)>'
+# 4    0x0044ba2f: '<unknown (@0x44ba2f)>'
+# 5    0x0044b7ee: '<unknown (@0x44b7ee)>'
+# 6    0x0044b5ba: '<unknown (@0x44b5ba)>'
+# 7    0x100583ea: 'TclServiceIdle + 0x4a'
+# 8    0x1004b834: 'Tcl_DoOneEvent + 0x124'
+# 9    0x10262466: 'Tk_MainLoop + 0x16'
+# 10   0x004770b4: 'Mtirpc_Init + 0xfbc4'
+# 11   0x0047812f: 'Mtirpc_Init + 0x10c3f'
+# 12   0x006aa093: '<unknown (@0x6aa093)>'
+# 13   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Thu Apr 07 22:00:17 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 00d830dd. Traceback:
+# 0    0x00d830dd: '<unknown (@0xd830dd)>'
+# 1    0x10024f26: 'TclCompileTokens + 0x1d6'
+# 2    0x10024a45: 'TclCompileScript + 0x425'
+# 3    0x10024f26: 'TclCompileTokens + 0x1d6'
+# 4    0x10021915: 'TclCompileSetCmd + 0x1a5'
+# 5    0x1002484e: 'TclCompileScript + 0x22e'
+# 6    0x100258bb: 'TclCompileCmdWord + 0x2b'
+# 7    0x1001ee9c: 'TclCompileIfCmd + 0x45c'
+# 8    0x1002484e: 'TclCompileScript + 0x22e'
+# 9    0x100258bb: 'TclCompileCmdWord + 0x2b'
+# 10   0x1001ec6b: 'TclCompileIfCmd + 0x22b'
+# 11   0x1002484e: 'TclCompileScript + 0x22e'
+# 12   0x1002427d: 'TclSetByteCodeFromAny + 0x4d'
+# 13   0x100243e4: 'TclSetByteCodeFromAny + 0x1b4'
+# 14   0x10053b2a: 'TclProcCompileProc + 0x24a'
+# 15   0x10053902: 'TclProcCompileProc + 0x22'
+# 16   0x00f59162: 'Itcl_GetMemberCode + 0x122'
+# 17   0x033c60f0: '<unknown (@0x33c60f0)>'
+StackWalk failed 126
+# End of Stack Trace
+
+# Current time Thu Apr 07 22:00:17 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Thu Apr 07 22:00:17 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Thu Apr 07 22:00:17 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Mon Sep 12 10:43:13 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 6e696c20. Traceback:
+# 0    0x6e696c20: '<unknown (@0x6e696c20)>'
+# 1    0x1002484e: 'TclCompileScript + 0x22e'
+# 2    0x10024f26: 'TclCompileTokens + 0x1d6'
+# 3    0x10021915: 'TclCompileSetCmd + 0x1a5'
+# 4    0x1002484e: 'TclCompileScript + 0x22e'
+# 5    0x100258bb: 'TclCompileCmdWord + 0x2b'
+# 6    0x1001ec6b: 'TclCompileIfCmd + 0x22b'
+# 7    0x1002484e: 'TclCompileScript + 0x22e'
+# 8    0x1002427d: 'TclSetByteCodeFromAny + 0x4d'
+# 9    0x100243e4: 'TclSetByteCodeFromAny + 0x1b4'
+# 10   0x10053b2a: 'TclProcCompileProc + 0x24a'
+# 11   0x10053902: 'TclProcCompileProc + 0x22'
+# 12   0x00f59162: 'Itcl_GetMemberCode + 0x122'
+# 13   0x02a2ee90: '<unknown (@0x2a2ee90)>'
+StackWalk failed 126
+# End of Stack Trace
+
+# Current time Mon Sep 12 10:43:13 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Mon Sep 12 10:43:13 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Mon Sep 12 10:43:13 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Sep 13 23:05:00 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 09240402. Traceback:
+# 0    0x09240402: '<unknown (@0x9240402)>'
+# 1    0x0058c8b2: '<unknown (@0x58c8b2)>'
+# 2    0x0058cb5e: '<unknown (@0x58cb5e)>'
+# 3    0x0058cc14: '<unknown (@0x58cc14)>'
+# 4    0x00615fe1: '<unknown (@0x615fe1)>'
+# 5    0x00616ae1: '<unknown (@0x616ae1)>'
+# 6    0x00617384: '<unknown (@0x617384)>'
+# 7    0x10024f26: 'TclCompileTokens + 0x1d6'
+# 8    0x10021915: 'TclCompileSetCmd + 0x1a5'
+# 9    0x1002484e: 'TclCompileScript + 0x22e'
+# 10   0x100258bb: 'TclCompileCmdWord + 0x2b'
+# 11   0x1001ec6b: 'TclCompileIfCmd + 0x22b'
+# 12   0x1002484e: 'TclCompileScript + 0x22e'
+# 13   0x1002427d: 'TclSetByteCodeFromAny + 0x4d'
+# 14   0x100243e4: 'TclSetByteCodeFromAny + 0x1b4'
+# 15   0x10053b2a: 'TclProcCompileProc + 0x24a'
+# 16   0x10053902: 'TclProcCompileProc + 0x22'
+# 17   0x00f59162: 'Itcl_GetMemberCode + 0x122'
+# 18   0x033b98a0: '<unknown (@0x33b98a0)>'
+StackWalk failed 126
+# End of Stack Trace
+
+# Current time Tue Sep 13 23:05:00 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Sep 13 23:05:00 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Sep 13 23:05:01 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Sep 13 23:05:31 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 69746d20. Traceback:
+# 0    0x69746d20: '<unknown (@0x69746d20)>'
+# 1    0x1002484e: 'TclCompileScript + 0x22e'
+# 2    0x10024f26: 'TclCompileTokens + 0x1d6'
+# 3    0x10021915: 'TclCompileSetCmd + 0x1a5'
+# 4    0x1002484e: 'TclCompileScript + 0x22e'
+# 5    0x100258bb: 'TclCompileCmdWord + 0x2b'
+# 6    0x1001ec6b: 'TclCompileIfCmd + 0x22b'
+# 7    0x1002484e: 'TclCompileScript + 0x22e'
+# 8    0x1002427d: 'TclSetByteCodeFromAny + 0x4d'
+# 9    0x100243e4: 'TclSetByteCodeFromAny + 0x1b4'
+# 10   0x10053b2a: 'TclProcCompileProc + 0x24a'
+# 11   0x10053902: 'TclProcCompileProc + 0x22'
+# 12   0x00f59162: 'Itcl_GetMemberCode + 0x122'
+# 13   0x02a37030: '<unknown (@0x2a37030)>'
+StackWalk failed 126
+# End of Stack Trace
+
+# Current time Tue Sep 13 23:05:31 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Sep 13 23:05:31 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Sep 13 23:05:31 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Sep 13 23:12:23 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 69746d20. Traceback:
+# 0    0x69746d20: '<unknown (@0x69746d20)>'
+# 1    0x1002484e: 'TclCompileScript + 0x22e'
+# 2    0x10024f26: 'TclCompileTokens + 0x1d6'
+# 3    0x10021915: 'TclCompileSetCmd + 0x1a5'
+# 4    0x1002484e: 'TclCompileScript + 0x22e'
+# 5    0x100258bb: 'TclCompileCmdWord + 0x2b'
+# 6    0x1001ec6b: 'TclCompileIfCmd + 0x22b'
+# 7    0x1002484e: 'TclCompileScript + 0x22e'
+# 8    0x1002427d: 'TclSetByteCodeFromAny + 0x4d'
+# 9    0x100243e4: 'TclSetByteCodeFromAny + 0x1b4'
+# 10   0x10053b2a: 'TclProcCompileProc + 0x24a'
+# 11   0x10053902: 'TclProcCompileProc + 0x22'
+# 12   0x00f59162: 'Itcl_GetMemberCode + 0x122'
+# 13   0x02a37030: '<unknown (@0x2a37030)>'
+StackWalk failed 126
+# End of Stack Trace
+
+# Current time Tue Sep 13 23:12:23 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Sep 13 23:12:23 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Sep 13 23:12:23 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Mon Sep 19 13:41:44 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 65646968. Traceback:
+# 0    0x65646968: '<unknown (@0x65646968)>'
+# 1    0x1002484e: 'TclCompileScript + 0x22e'
+# 2    0x10024f26: 'TclCompileTokens + 0x1d6'
+# 3    0x10021915: 'TclCompileSetCmd + 0x1a5'
+# 4    0x1002484e: 'TclCompileScript + 0x22e'
+# 5    0x100258bb: 'TclCompileCmdWord + 0x2b'
+# 6    0x1001ec6b: 'TclCompileIfCmd + 0x22b'
+# 7    0x1002484e: 'TclCompileScript + 0x22e'
+# 8    0x1002427d: 'TclSetByteCodeFromAny + 0x4d'
+# 9    0x100243e4: 'TclSetByteCodeFromAny + 0x1b4'
+# 10   0x10053b2a: 'TclProcCompileProc + 0x24a'
+# 11   0x10053902: 'TclProcCompileProc + 0x22'
+# 12   0x00f59162: 'Itcl_GetMemberCode + 0x122'
+# 13   0x033b98a0: '<unknown (@0x33b98a0)>'
+StackWalk failed 126
+# End of Stack Trace
+
+# Current time Mon Sep 19 13:41:45 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Mon Sep 19 13:41:45 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Mon Sep 19 13:41:45 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Mon Sep 19 14:01:45 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 65646968. Traceback:
+# 0    0x65646968: '<unknown (@0x65646968)>'
+# 1    0x1002484e: 'TclCompileScript + 0x22e'
+# 2    0x10024f26: 'TclCompileTokens + 0x1d6'
+# 3    0x10021915: 'TclCompileSetCmd + 0x1a5'
+# 4    0x1002484e: 'TclCompileScript + 0x22e'
+# 5    0x100258bb: 'TclCompileCmdWord + 0x2b'
+# 6    0x1001ec6b: 'TclCompileIfCmd + 0x22b'
+# 7    0x1002484e: 'TclCompileScript + 0x22e'
+# 8    0x1002427d: 'TclSetByteCodeFromAny + 0x4d'
+# 9    0x100243e4: 'TclSetByteCodeFromAny + 0x1b4'
+# 10   0x10053b2a: 'TclProcCompileProc + 0x24a'
+# 11   0x10053902: 'TclProcCompileProc + 0x22'
+# 12   0x00f59162: 'Itcl_GetMemberCode + 0x122'
+# 13   0x033b98a0: '<unknown (@0x33b98a0)>'
+StackWalk failed 126
+# End of Stack Trace
+
+# Current time Mon Sep 19 14:01:45 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Mon Sep 19 14:01:45 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Mon Sep 19 14:01:45 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Mon Sep 26 23:58:41 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 74693a3a. Traceback:
+# 0    0x74693a3a: '<unknown (@0x74693a3a)>'
+# 1    0x1002484e: 'TclCompileScript + 0x22e'
+# 2    0x10024f26: 'TclCompileTokens + 0x1d6'
+# 3    0x10021915: 'TclCompileSetCmd + 0x1a5'
+# 4    0x1002484e: 'TclCompileScript + 0x22e'
+# 5    0x100258bb: 'TclCompileCmdWord + 0x2b'
+# 6    0x1001ec6b: 'TclCompileIfCmd + 0x22b'
+# 7    0x1002484e: 'TclCompileScript + 0x22e'
+# 8    0x1002427d: 'TclSetByteCodeFromAny + 0x4d'
+# 9    0x100243e4: 'TclSetByteCodeFromAny + 0x1b4'
+# 10   0x10053b2a: 'TclProcCompileProc + 0x24a'
+# 11   0x10053902: 'TclProcCompileProc + 0x22'
+# 12   0x00f59162: 'Itcl_GetMemberCode + 0x122'
+# 13   0x033b98a0: '<unknown (@0x33b98a0)>'
+StackWalk failed 126
+# End of Stack Trace
+
+# Current time Mon Sep 26 23:58:41 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Mon Sep 26 23:58:41 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Mon Sep 26 23:58:41 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Sep 27 10:38:50 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 0342f38f. Traceback:
+# 0    0x0342f38f: '<unknown (@0x342f38f)>'
+# 1    0x10024f26: 'TclCompileTokens + 0x1d6'
+# 2    0x10021915: 'TclCompileSetCmd + 0x1a5'
+# 3    0x1002484e: 'TclCompileScript + 0x22e'
+# 4    0x100258bb: 'TclCompileCmdWord + 0x2b'
+# 5    0x1001ec6b: 'TclCompileIfCmd + 0x22b'
+# 6    0x1002484e: 'TclCompileScript + 0x22e'
+# 7    0x1002427d: 'TclSetByteCodeFromAny + 0x4d'
+# 8    0x100243e4: 'TclSetByteCodeFromAny + 0x1b4'
+# 9    0x10053b2a: 'TclProcCompileProc + 0x24a'
+# 10   0x10053902: 'TclProcCompileProc + 0x22'
+# 11   0x00f59162: 'Itcl_GetMemberCode + 0x122'
+# 12   0x033b9860: '<unknown (@0x33b9860)>'
+StackWalk failed 126
+# End of Stack Trace
+
+# Current time Tue Sep 27 10:38:51 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Sep 27 10:38:51 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Sep 27 10:38:51 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Sep 27 10:59:30 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 0342f38f. Traceback:
+# 0    0x0342f38f: '<unknown (@0x342f38f)>'
+# 1    0x10024f26: 'TclCompileTokens + 0x1d6'
+# 2    0x10021915: 'TclCompileSetCmd + 0x1a5'
+# 3    0x1002484e: 'TclCompileScript + 0x22e'
+# 4    0x100258bb: 'TclCompileCmdWord + 0x2b'
+# 5    0x1001ec6b: 'TclCompileIfCmd + 0x22b'
+# 6    0x1002484e: 'TclCompileScript + 0x22e'
+# 7    0x1002427d: 'TclSetByteCodeFromAny + 0x4d'
+# 8    0x100243e4: 'TclSetByteCodeFromAny + 0x1b4'
+# 9    0x10053b2a: 'TclProcCompileProc + 0x24a'
+# 10   0x10053902: 'TclProcCompileProc + 0x22'
+# 11   0x00f59162: 'Itcl_GetMemberCode + 0x122'
+# 12   0x033b9860: '<unknown (@0x33b9860)>'
+StackWalk failed 126
+# End of Stack Trace
+
+# Current time Tue Sep 27 10:59:31 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Sep 27 10:59:31 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Sep 27 10:59:31 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Sep 27 11:00:23 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 0342f38f. Traceback:
+# 0    0x0342f38f: '<unknown (@0x342f38f)>'
+# 1    0x10024f26: 'TclCompileTokens + 0x1d6'
+# 2    0x10021915: 'TclCompileSetCmd + 0x1a5'
+# 3    0x1002484e: 'TclCompileScript + 0x22e'
+# 4    0x100258bb: 'TclCompileCmdWord + 0x2b'
+# 5    0x1001ec6b: 'TclCompileIfCmd + 0x22b'
+# 6    0x1002484e: 'TclCompileScript + 0x22e'
+# 7    0x1002427d: 'TclSetByteCodeFromAny + 0x4d'
+# 8    0x100243e4: 'TclSetByteCodeFromAny + 0x1b4'
+# 9    0x10053b2a: 'TclProcCompileProc + 0x24a'
+# 10   0x10053902: 'TclProcCompileProc + 0x22'
+# 11   0x00f59162: 'Itcl_GetMemberCode + 0x122'
+# 12   0x033b9860: '<unknown (@0x33b9860)>'
+StackWalk failed 126
+# End of Stack Trace
+
+# Current time Tue Sep 27 11:00:23 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Sep 27 11:00:23 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Sep 27 11:00:23 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Sep 27 23:17:10 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 6d2e3a3a. Traceback:
+# 0    0x6d2e3a3a: '<unknown (@0x6d2e3a3a)>'
+# 1    0x1002484e: 'TclCompileScript + 0x22e'
+# 2    0x10024f26: 'TclCompileTokens + 0x1d6'
+# 3    0x10021915: 'TclCompileSetCmd + 0x1a5'
+# 4    0x1002484e: 'TclCompileScript + 0x22e'
+# 5    0x100258bb: 'TclCompileCmdWord + 0x2b'
+# 6    0x1001ec6b: 'TclCompileIfCmd + 0x22b'
+# 7    0x1002484e: 'TclCompileScript + 0x22e'
+# 8    0x1002427d: 'TclSetByteCodeFromAny + 0x4d'
+# 9    0x100243e4: 'TclSetByteCodeFromAny + 0x1b4'
+# 10   0x10053b2a: 'TclProcCompileProc + 0x24a'
+# 11   0x10053902: 'TclProcCompileProc + 0x22'
+# 12   0x00f59162: 'Itcl_GetMemberCode + 0x122'
+# 13   0x033b9860: '<unknown (@0x33b9860)>'
+StackWalk failed 126
+# End of Stack Trace
+
+# Current time Tue Sep 27 23:17:10 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Sep 27 23:17:11 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Sep 27 23:17:11 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Sep 27 23:19:19 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 6d2e3a3a. Traceback:
+# 0    0x6d2e3a3a: '<unknown (@0x6d2e3a3a)>'
+# 1    0x1002484e: 'TclCompileScript + 0x22e'
+# 2    0x10024f26: 'TclCompileTokens + 0x1d6'
+# 3    0x10021915: 'TclCompileSetCmd + 0x1a5'
+# 4    0x1002484e: 'TclCompileScript + 0x22e'
+# 5    0x100258bb: 'TclCompileCmdWord + 0x2b'
+# 6    0x1001ec6b: 'TclCompileIfCmd + 0x22b'
+# 7    0x1002484e: 'TclCompileScript + 0x22e'
+# 8    0x1002427d: 'TclSetByteCodeFromAny + 0x4d'
+# 9    0x100243e4: 'TclSetByteCodeFromAny + 0x1b4'
+# 10   0x10053b2a: 'TclProcCompileProc + 0x24a'
+# 11   0x10053902: 'TclProcCompileProc + 0x22'
+# 12   0x00f59162: 'Itcl_GetMemberCode + 0x122'
+# 13   0x033b9860: '<unknown (@0x33b9860)>'
+StackWalk failed 126
+# End of Stack Trace
+
+# Current time Tue Sep 27 23:19:19 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Sep 27 23:19:19 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Sep 27 23:19:19 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Wed Sep 28 00:01:28 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 6d2e3a3a. Traceback:
+# 0    0x6d2e3a3a: '<unknown (@0x6d2e3a3a)>'
+# 1    0x1002484e: 'TclCompileScript + 0x22e'
+# 2    0x10024f26: 'TclCompileTokens + 0x1d6'
+# 3    0x10021915: 'TclCompileSetCmd + 0x1a5'
+# 4    0x1002484e: 'TclCompileScript + 0x22e'
+# 5    0x100258bb: 'TclCompileCmdWord + 0x2b'
+# 6    0x1001ec6b: 'TclCompileIfCmd + 0x22b'
+# 7    0x1002484e: 'TclCompileScript + 0x22e'
+# 8    0x1002427d: 'TclSetByteCodeFromAny + 0x4d'
+# 9    0x100243e4: 'TclSetByteCodeFromAny + 0x1b4'
+# 10   0x10053b2a: 'TclProcCompileProc + 0x24a'
+# 11   0x10053902: 'TclProcCompileProc + 0x22'
+# 12   0x00f59162: 'Itcl_GetMemberCode + 0x122'
+# 13   0x033b9860: '<unknown (@0x33b9860)>'
+StackWalk failed 126
+# End of Stack Trace
+
+# Current time Wed Sep 28 00:01:28 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Wed Sep 28 00:01:29 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Wed Sep 28 00:01:29 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Wed Sep 28 00:08:58 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 74693a3a. Traceback:
+# 0    0x74693a3a: '<unknown (@0x74693a3a)>'
+# 1    0x1002484e: 'TclCompileScript + 0x22e'
+# 2    0x10024f26: 'TclCompileTokens + 0x1d6'
+# 3    0x10021915: 'TclCompileSetCmd + 0x1a5'
+# 4    0x1002484e: 'TclCompileScript + 0x22e'
+# 5    0x100258bb: 'TclCompileCmdWord + 0x2b'
+# 6    0x1001ec6b: 'TclCompileIfCmd + 0x22b'
+# 7    0x1002484e: 'TclCompileScript + 0x22e'
+# 8    0x1002427d: 'TclSetByteCodeFromAny + 0x4d'
+# 9    0x100243e4: 'TclSetByteCodeFromAny + 0x1b4'
+# 10   0x10053b2a: 'TclProcCompileProc + 0x24a'
+# 11   0x10053902: 'TclProcCompileProc + 0x22'
+# 12   0x00f59162: 'Itcl_GetMemberCode + 0x122'
+# 13   0x02b60ae0: '<unknown (@0x2b60ae0)>'
+StackWalk failed 126
+# End of Stack Trace
+
+# Current time Wed Sep 28 00:08:58 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Wed Sep 28 00:08:58 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Wed Sep 28 00:08:59 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 1002cf21. Traceback:
+# 0    0x1002cf21: 'TclCompEvalObj + 0xa81'
+# 1    0x1002c403: 'Tcl_ExprObj + 0x403'
+# 2    0x1000e8a6: 'Tcl_ExprBooleanObj + 0x16'
+# 3    0x100141dd: 'Tcl_IfObjCmd + 0x3d'
+# 4    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 5    0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 6    0x1023d72b: 'Tk_BindEvent + 0x58b'
+# 7    0x102581f6: 'TkBindEventProc + 0xf6'
+# 8    0x10261fb8: 'Tk_HandleEvent + 0x478'
+# 9    0x102a6d6d: 'Tk_UnmapWindow + 0x7d'
+# 10   0x1028a130: 'Tk_PackObjCmd + 0x1750'
+# 11   0x10261f8b: 'Tk_HandleEvent + 0x44b'
+# 12   0x102a6878: 'Tk_DestroyWindow + 0x1d8'
+# 13   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 14   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 15   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 16   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 17   0x102a67ca: 'Tk_DestroyWindow + 0x12a'
+# 18   0x102a7709: 'TkpAlwaysShowSelection + 0xa9'
+# 19   0x1002bc91: 'Tcl_FinalizeThread + 0x51'
+# 20   0x10011f2e: 'Tcl_ExitObjCmd + 0x3e'
+# 21   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 22   0x1002cad7: 'TclCompEvalObj + 0x637'
+# 23   0x1002c590: 'TclCompEvalObj + 0xf0'
+# 24   0x1005383a: 'TclObjInterpProc + 0x26a'
+# 25   0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 26   0x1000dce0: 'Tcl_EvalEx + 0x180'
+# 27   0x1000e066: 'Tcl_Eval + 0x16'
+# 28   0x00473aca: 'Mtirpc_Init + 0xc5da'
+# 29   0x00476e99: 'Mtirpc_Init + 0xf9a9'
+# 30   0x00476f63: 'Mtirpc_Init + 0xfa73'
+# 31   0x00478152: 'Mtirpc_Init + 0x10c62'
+# 32   0x006aa093: '<unknown (@0x6aa093)>'
+# 33   0x7c817067: '<unknown (@0x7c817067)>'
+StackWalk failed 487
+# End of Stack Trace
+
+# Current time Tue Oct 25 12:26:38 2011
+# ModelSim Stack Trace
+# Program = vish
+# Id = "6.5"
+# Version = "2009.01"
+# Date = "Jan 22 2009"
+# Platform = win32
+
+Exception c0000005 has occurred at address 00000004. Traceback:
+# 0    0x00000004: '<unknown (@0x4)>'
+# 1    0x1000d52b: 'TclEvalObjvInternal + 0x24b'
+# 2    0x1002cad7: 'TclCompEvalObj + 0x637'
+# 3    0x1002c590: 'TclCompEvalObj + 0xf0'
+# 4    0x1000e159: 'Tcl_EvalObjEx + 0x59'
+# 5    0x00f59390: 'Itcl_EvalMemberCode + 0x210'
+# 6    0x033c9860: '<unknown (@0x33c9860)>'
+StackWalk failed 126
+# End of Stack Trace
+

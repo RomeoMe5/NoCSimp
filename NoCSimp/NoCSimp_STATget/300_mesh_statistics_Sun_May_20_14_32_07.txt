@@ -1,0 +1,67 @@
+Packets send: 50  Recv: 49
+Flits send: 205  Recv: 198
+Total time: 1009
+Flits ingection rate:   0.0451492
+Flits consumption rate: 0.0436075
+Avg. packets delivery time: 70.7143
+Nods[0].sendp= 4  Nods[0].sendf= 14  Nods[0].rcvp= 0  Nods[0].rcvf= 0
+Nods[1].sendp= 7  Nods[1].sendf= 32  Nods[1].rcvp= 9  Nods[1].rcvf= 34
+Nods[2].sendp= 7  Nods[2].sendf= 30  Nods[2].rcvp= 3  Nods[2].rcvf= 8
+Nods[3].sendp= 4  Nods[3].sendf= 20  Nods[3].rcvp= 4  Nods[3].rcvf= 19
+Nods[4].sendp= 5  Nods[4].sendf= 20  Nods[4].rcvp= 5  Nods[4].rcvf= 25
+Nods[5].sendp= 7  Nods[5].sendf= 30  Nods[5].rcvp= 6  Nods[5].rcvf= 28
+Nods[6].sendp= 4  Nods[6].sendf= 11  Nods[6].rcvp= 7  Nods[6].rcvf= 36
+Nods[7].sendp= 7  Nods[7].sendf= 25  Nods[7].rcvp= 7  Nods[7].rcvf= 18
+Nods[8].sendp= 5  Nods[8].sendf= 23  Nods[8].rcvp= 8  Nods[8].rcvf= 30
+
+
+Prod: 0 Ptime: 21 Rec: 3 RTime: 129 Len: 6 TDelivery: 54
+Prod: 1 Ptime: 21 Rec: 5 RTime: 169 Len: 4 TDelivery: 74
+Prod: 7 Ptime: 21 Rec: 8 RTime: 183 Len: 2 TDelivery: 81
+Prod: 4 Ptime: 23 Rec: 1 RTime: 121 Len: 4 TDelivery: 49
+Prod: 8 Ptime: 23 Rec: 1 RTime: 275 Len: 6 TDelivery: 126
+Prod: 5 Ptime: 25 Rec: 7 RTime: 243 Len: 1 TDelivery: 109
+Prod: 3 Ptime: 27 Rec: 7 RTime: 253 Len: 1 TDelivery: 113
+Prod: 6 Ptime: 27 Rec: 2 RTime: 381 Len: 5 TDelivery: 177
+Prod: 2 Ptime: 29 Rec: 7 RTime: 263 Len: 1 TDelivery: 117
+Prod: 1 Ptime: 111 Rec: 5 RTime: 241 Len: 6 TDelivery: 65
+Prod: 2 Ptime: 167 Rec: 3 RTime: 369 Len: 6 TDelivery: 101
+Prod: 8 Ptime: 195 Rec: 7 RTime: 381 Len: 7 TDelivery: 93
+Prod: 7 Ptime: 389 Rec: 6 RTime: 445 Len: 3 TDelivery: 28
+Prod: 5 Ptime: 395 Rec: 4 RTime: 497 Len: 7 TDelivery: 51
+Prod: 1 Ptime: 425 Rec: 6 RTime: 529 Len: 5 TDelivery: 52
+Prod: 5 Ptime: 487 Rec: 6 RTime: 627 Len: 8 TDelivery: 70
+Prod: 2 Ptime: 539 Rec: 8 RTime: 711 Len: 7 TDelivery: 86
+Prod: 0 Ptime: 545 Rec: 1 RTime: 599 Len: 3 TDelivery: 27
+Prod: 3 Ptime: 577 Rec: 8 RTime: 845 Len: 7 TDelivery: 134
+Prod: 1 Ptime: 585 Rec: 6 RTime: 825 Len: 7 TDelivery: 120
+Prod: 8 Ptime: 591 Rec: 3 RTime: 731 Len: 3 TDelivery: 70
+Prod: 5 Ptime: 613 Rec: 4 RTime: 805 Len: 3 TDelivery: 96
+Prod: 4 Ptime: 641 Rec: 1 RTime: 785 Len: 2 TDelivery: 72
+Prod: 6 Ptime: 695 Rec: 8 RTime: 763 Len: 3 TDelivery: 34
+Prod: 7 Ptime: 791 Rec: 1 RTime: 835 Len: 1 TDelivery: 22
+Prod: 0 Ptime: 901 Rec: 8 RTime: 1005 Len: 4 TDelivery: 52
+Prod: 4 Ptime: 943 Rec: 8 RTime: 1053 Len: 4 TDelivery: 55
+Prod: 3 Ptime: 1083 Rec: 1 RTime: 1159 Len: 4 TDelivery: 38
+Prod: 2 Ptime: 1121 Rec: 6 RTime: 1205 Len: 1 TDelivery: 42
+Prod: 7 Ptime: 1127 Rec: 1 RTime: 1287 Len: 7 TDelivery: 80
+Prod: 1 Ptime: 1147 Rec: 5 RTime: 1239 Len: 4 TDelivery: 46
+Prod: 8 Ptime: 1149 Rec: 7 RTime: 1269 Len: 5 TDelivery: 60
+Prod: 6 Ptime: 1243 Rec: 8 RTime: 1373 Len: 1 TDelivery: 65
+Prod: 7 Ptime: 1245 Rec: 5 RTime: 1373 Len: 7 TDelivery: 64
+Prod: 5 Ptime: 1289 Rec: 7 RTime: 1523 Len: 2 TDelivery: 117
+Prod: 1 Ptime: 1317 Rec: 5 RTime: 1429 Len: 5 TDelivery: 56
+Prod: 2 Ptime: 1331 Rec: 4 RTime: 1543 Len: 3 TDelivery: 106
+Prod: 4 Ptime: 1407 Rec: 1 RTime: 1499 Len: 6 TDelivery: 46
+Prod: 0 Ptime: 1523 Rec: 7 RTime: 1579 Len: 1 TDelivery: 28
+Prod: 7 Ptime: 1581 Rec: 6 RTime: 1647 Len: 4 TDelivery: 33
+Prod: 2 Ptime: 1599 Rec: 6 RTime: 1751 Len: 8 TDelivery: 76
+Prod: 5 Ptime: 1633 Rec: 8 RTime: 1677 Len: 2 TDelivery: 22
+Prod: 3 Ptime: 1655 Rec: 4 RTime: 1929 Len: 8 TDelivery: 137
+Prod: 1 Ptime: 1671 Rec: 2 RTime: 1737 Len: 1 TDelivery: 33
+Prod: 4 Ptime: 1735 Rec: 3 RTime: 1903 Len: 4 TDelivery: 84
+Prod: 6 Ptime: 1753 Rec: 2 RTime: 1829 Len: 2 TDelivery: 38
+Prod: 8 Ptime: 1809 Rec: 5 RTime: 1853 Len: 2 TDelivery: 22
+Prod: 7 Ptime: 1815 Rec: 1 RTime: 1997 Len: 1 TDelivery: 91
+Prod: 2 Ptime: 1917 Rec: 4 RTime: 2023 Len: 4 TDelivery: 53
+Prod: 5 Ptime: 1935 Rec: 0 RTime: 0 Len: 7

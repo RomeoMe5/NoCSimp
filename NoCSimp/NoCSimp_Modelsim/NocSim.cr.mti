@@ -1,0 +1,107 @@
+C:/data/Modelsim_Noc/NoC_11_mesh_generate.v {1 {vlog -work work -vopt -nocovercells {C:\data\Modelsim_Noc\NoC_11_mesh_generate.v}
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module NoC_11_SWIP
+
+Top level modules:
+	NoC_11_SWIP
+
+} {} {}} C:/data/Modelsim_Noc/NoC.v {1 {vlog -work work -vopt -nocovercells C:/data/Modelsim_Noc/NoC.v
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module NoC_SW_IP
+
+Top level modules:
+	NoC_SW_IP
+
+} {} {}} C:/data/Modelsim_Noc/ConIP.v {1 {vlog -work work -vopt -nocovercells {C:\data\Modelsim_Noc\ConIP.v}
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module IP_consumer
+
+Top level modules:
+	IP_consumer
+
+} {} {}} C:/data/Modelsim_Noc/IP.v {1 {vlog -work work -vopt -nocovercells C:/data/Modelsim_Noc/IP.v
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module IP
+
+Top level modules:
+	IP
+
+} {} {}} C:/data/Modelsim_Noc/alt_mf.v {1 {vlog -work work -vopt -nocovercells C:/data/Modelsim_Noc/alt_mf.v
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module scfifo
+-- Compiling module ALTERA_DEVICE_FAMILIES
+
+Top level modules:
+	scfifo
+
+} {} {}} C:/data/Modelsim_Noc/input_m.v {1 {vlog -work work -vopt -nocovercells {C:\data\Modelsim_Noc\input_m.v}
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module InPort
+
+Top level modules:
+	InPort
+
+} {} {}} C:/data/Modelsim_Noc/output_m.v {1 {vlog -work work -vopt -nocovercells {C:\data\Modelsim_Noc\output_m.v}
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module OutPort
+
+Top level modules:
+	OutPort
+
+} {} {}} C:/data/Modelsim_Noc/NoC_special.v {1 {vlog -work work -vopt -nocovercells {C:\data\Modelsim_Noc\NoC_special.v}
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module NoC_special
+
+Top level modules:
+	NoC_special
+
+} {} {}} C:/data/Modelsim_Noc/fifo_m.v {1 {vlog -work work -vopt -nocovercells C:/data/Modelsim_Noc/fifo_m.v
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module sync_fifo
+
+Top level modules:
+	sync_fifo
+
+} {} {}} C:/data/Modelsim_Noc/NoC_SW_IP.v {1 {vlog -work work -vopt -nocovercells C:/data/Modelsim_Noc/NoC_SW_IP.v
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module NoC
+
+Top level modules:
+	NoC
+
+} {} {}} C:/data/Modelsim_Noc/switch.v {1 {vlog -work work -vopt -nocovercells C:/data/Modelsim_Noc/switch.v
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module switch
+
+Top level modules:
+	switch
+
+} {} {}} C:/data/Modelsim_Noc/SW_IP.v {1 {vlog -work work -vopt -nocovercells {C:\data\Modelsim_Noc\SW_IP.v}
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module SW_IP
+
+Top level modules:
+	SW_IP
+
+} {} {}} C:/data/Modelsim_Noc/NoC_6_mesh_generate.v {1 {vlog -work work -vopt -nocovercells C:/data/Modelsim_Noc/NoC_6_mesh_generate.v
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module NoC_8_SWIP
+
+Top level modules:
+	NoC_8_SWIP
+
+} {} {}} C:/data/Modelsim_Noc/fifo_q.v {1 {vlog -work work -vopt -nocovercells C:/data/Modelsim_Noc/fifo_q.v
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module fifo
+
+Top level modules:
+	fifo
+
+} {} {}} C:/data/Modelsim_Noc/ProdIP.v {1 {vlog -work work -vopt -nocovercells {C:\data\Modelsim_Noc\ProdIP.v}
+Model Technology ModelSim SE vlog 6.5 Compiler 2009.01 Jan 22 2009
+-- Compiling module IP_producer
+
+Top level modules:
+	IP_producer
+
+} {} {}}
